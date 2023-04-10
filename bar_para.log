@@ -1,0 +1,47 @@
+! %%%%%% parameterized log file: bar_para.log %%%%%% begin %%%%%
+! ------ 注意：以下命令流中的符号$，表示可以把多行命令写成一行
+! 设置参数 --- begin ---
+bar_1 = 4    ! F2作用点距离下端的距离
+bar_2 = 7    ! F1作用点距离上端的距离
+bar_L = 10   ! 杆件长度
+bar_el = 30E6  ! 杆件弹性模量
+bar_a = 1      ! 杆件截面面积
+force_1 = -500 ! F1作用力
+force_2 = 1000 ! F2作用力
+! 设置参数 --- end ---
+/PREP7         ! 进入预处理模式
+ANTYPE,STATIC  ! 设置分析类型为静力分析
+ET,1,LINK1     ! 定义杆件单元类型(1号单元类型为LINK1)
+R,1,bar_a      ! 定义实常数
+MP,EX,1,bar_el ! 定义杆件单元材料属性
+N,1            ! 定义节点1
+$N,2,,bar_1    ! 定义节点2
+$N,3,,bar_2    ! 定义节点3
+$N,4,,bar_L    ! 定义节点4
+E,1,2          ! 定义单元1
+EGEN,3,1,1     ! 重复产生三个单元，每次的节点号都增加1
+D,1,ALL,,,4,3  ! 施加完全约束, 节点起始为1，终止为4，增量为3
+F,2,FY,force_1  ! 施加力F1
+F,3,FY,force_2  ! 施加力F2
+FINISH         ! 结束预处理
+
+/SOLU          ! 进入求解模式
+OUTPR,BASIC,1  ! 输出方式的设置
+SOLVE
+FINISH
+
+/POST1         ! 进入后处理模式
+/ESHAPE,0,5    ! 以0.5倍实常数比例按照实体效果进行显示
+JPGPRF,1500,300,1 ! 设置输出文件格式
+/SHOW,JPEG       ! 设置输出文件格式
+PLNSOL,U,Y,0,1,0 ! 显示变形图，并将输出file100.jpg 
+ETABLE,bar_I,SMISC,1 ! 显示单元I的轴力
+ETABLE,bar_J,SMISC,1 ! 显示单元J的轴力
+PLLS,bar_I,bar_J     ! 画出线性单元的轴力图
+PRESOL,SMISC,1       ! 显示单元的轴力
+PRESOL               ! 打印支反力的结果
+FINISH
+! %%%%%% parameterized log file: bar_para.log %%%%%% end %%%%%
+
+
+
