@@ -1,0 +1,121 @@
+
+  Performance statistics for Boeing sparse solver: icalls =      1
+
+ ===========================
+ = multifrontal statistics =
+ ===========================
+
+     number of equations                     =            2522
+     no. of nonzeroes in lower triangle of a =           22248
+     number of compressed nodes              =             441
+     no. of compressed nonzeroes in l. tri.  =            1640
+     amount of workspace currently in use    =          318999
+     max. amt. of workspace used             =         1999993
+     no. of nonzeroes in the factor l        =          229816.
+     number of super nodes                   =             206
+     number of compressed subscripts         =           12769
+     size of stack storage                   =           52273
+     maximum order of a front matrix         =             236
+     maximum size of a front matrix          =           27966
+     maximum size of a front trapezoid       =           12512
+     no. of floating point ops for factor    =      2.8267D+07
+     no. of floating point ops for solve     =      7.4215D+05
+     actual no. of nonzeroes in the factor l =          229816.
+     actual number of compressed subscripts  =           12769
+     actual size of stack storage used       =           74383
+     negative pivot monitoring activated
+     number of negative pivots encountered   =              0.
+     factorization panel size                =              64
+     factorization update panel size         =              32
+     solution block size                     =               2
+     number of cores used                    =               2
+     time (cpu & wall) for structure input   =        0.002000        0.002435
+     time (cpu & wall) for ordering          =        0.001000        0.000260
+     time (cpu & wall) for symbolic factor   =        0.000000        0.000207
+     time (cpu & wall) for value input       =        0.002000        0.001849
+     time (cpu & wall) for numeric factor    =        0.008000        0.007997
+     computational rate (mflops) for factor  =     3533.343500     3534.757403
+     condition number estimate               =      0.0000D+00
+
+     no input or output performed
+
+
+
+
+  Performance statistics for Block Lanczos eigensolver: icalls =      2
+
+ ===================================
+ = sparse eigenanalysis statistics =
+ ===================================
+
+     number of equations                     =            2522
+     no. of nonzeroes in lower triangle of a =           22248
+     number of compressed nodes              =             441
+     no. of compressed nonzeroes in l. tri.  =            1640
+     amount of workspace currently in use    =          114318
+     b has general form.
+     no. of nonzeroes in lower triangle of b =            6262
+     max. amt. of workspace used             =         2366651
+     no. of nonzeroes in the factor l        =          229816.
+     number of super nodes                   =             206
+     number of compressed subscripts         =           12769
+     size of stack storage                   =           52273
+     maximum order of a front matrix         =             236
+     maximum size of a front matrix          =           27966
+     maximum size of a front trapezoid       =           12512
+     no. of flt. pt. ops for a single factor =    2.828432D+07
+     no. of flt. pt. ops for a block solve   =    7.421460D+05
+     no. of flt. pt. ops for block mtx mult. =    7.321120D+05
+     total no. of flt. pt. ops for factor    =    8.485295D+07
+     total no. of flt. pt. ops for solve     =    1.246805D+08
+     total no. of flt. pt. ops for mtx mult. =    3.440926D+07
+     actual no. of nonzeroes in the factor l =          229816.
+     actual number of compressed subscripts  =           12769
+     actual size of stack storage used       =           74383
+     pivot tolerance used for factorization  =        0.000000
+     factorization panel size                =              64
+     factorization update panel size         =              32
+     solution block size                     =               8
+     lanczos block size                      =               8
+     number of cores used                    =               2
+     total number of factorizations          =               3
+     total number of lanczos runs            =               2
+     total number of lanczos steps           =              19
+     total number of block solves            =              21
+     time (cpu & wall) for structure input   =        0.004000        0.003623
+     time (cpu & wall) for ordering          =        0.001000        0.000899
+     time (cpu & wall) for symbolic factor   =        0.001000        0.001257
+     time (cpu & wall) for value input       =        0.004000        0.004130
+
+     time (cpu & wall) for numeric factor    =        0.020000        0.020725
+     computational rate (mflops) for factor  =     4242.647400     4094.290774
+     time (cpu & wall) for numeric solve     =        0.037000        0.032100
+     computational rate (mflops) for solve   =     3369.744000     3884.140698
+     time (cpu & wall) for matrix multiply   =        0.006000        0.009505
+     computational rate (mflops) for mult.   =     5734.877333     3620.008206
+
+     cost (elapsed time) for sparse eigenanalysis
+     -----------------------------
+     lanczos run start up cost               =        0.005143
+     lanczos run recurrence cost             =        0.030134
+     lanczos run reorthogonalization cost    =        0.026002
+     lanczos run internal eigenanalysis cost =        0.002287
+     lanczos eigenvector computation cost    =        0.003024
+     lanczos run overhead cost               =        0.005428
+
+     total lanczos run cost                  =        0.072017
+     total factorization cost                =        0.020742
+     shift strategy and overhead  cost       =        0.046266
+
+     total sparse eigenanalysis cost         =        0.139025
+
+     i/o stats:    unit           file length              amount transferred
+                                words     mbytes            words     mbytes
+                  ----          -----     ------            -----     ------
+
+                    21         25538.        0. MB         89383.        1. MB
+                    25        221936.        2. MB       1331616.       10. MB
+                    28        201760.        2. MB        907920.        7. MB
+                    11         12610.        0. MB         12610.        0. MB
+
+                Total:        461844.        4. MB       2341529.       18. MB

@@ -1,0 +1,73 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! Junction Plates
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+finish
+/clear
+/filname,testJunctionPlate
+
+/prep7 
+!!!!参数输入
+t=0.01      !!板厚度
+b=1.0       !!板宽度
+a=1.0         !!板长度
+Ex=2.06e11  !!弹性模量
+Nu=0.3      !!泊松比
+pres=1000   !!荷载N/m
+
+!!!!定义单元类型，实常数，材料特性 
+et,1,shell181
+r,1,t
+mp,ex,1,Ex
+mp,prxy,1,Nu
+
+!!!建立几何模型
+k,1,0,0,0
+k,2,1,0,1
+k,3,2,0,0
+k,4,0,1,0
+k,5,1,1,1
+k,6,2,1,0
+a,1,2,5,4
+a,2,3,6,5
+
+!!!单元划分
+! AATT, MAT, REAL, TYPE, ESYS, SECN
+! Associates element attributes with the selected, unmeshed areas
+aatt,1,1,1,0
+! AESIZE, ANUM, SIZE, 、
+! Specifies the element size to be meshed onto areas.
+aesize,all,5*t    !!!设置单元划分尺寸
+! AMESH, NA1, NA2, NINC
+! Generates nodes and area elements within areas.
+! Mesh areas from NA1 to NA2 (defaults to NA1) in steps of NINC (defaults to 1). If NA1 = ALL, NA2 and NINC are ignored
+amesh,all
+
+!!!给两加载边施加约束
+! DL, LINE, AREA, Lab, Value1, Value2
+! Defines DOF constraints on lines.
+DL,4, ,all,0 
+
+!!!给两非加载边施加约束
+! Transfers solid model DOF constraints to the finite element model.
+dtran
+
+!!施加x方向约束，消除刚体位移
+! NSEL, Type, Item, Comp, VMIN, VMAX, VINC, KABS
+! Selects a subset of nodes.
+! nsel,s,loc,x,0,0
+
+!!!施加荷载
+SFL,6,PRES,pres  
+sftran
+
+!!!首先进行静力解
+/solu 
+antype,0
+pstres,on 
+solve 
+finish 
+
+!!!后处理
+/post1
+set,first
+plnsol,u,z,0,1.0
