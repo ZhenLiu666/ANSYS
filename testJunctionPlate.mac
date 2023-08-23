@@ -60,6 +60,11 @@ dtran
 SFL,6,PRES,pres  
 sftran
 
+!! 保存信息
+/file,write,testJunctionPlate.inp
+/input,testJunctionPlate
+
+
 !!!首先进行静力解
 /solu 
 antype,0

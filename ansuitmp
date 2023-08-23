@@ -1,7 +1,7 @@
-*MSG,NOTE
-Real constants for the SHELL181 element type are no longer supported.
-  
-  
+*MSG,WARN
+This function requires that files currently open be closed. %/Executing &
+the function will exit &
+ the general postprocessor
   
   
   

@@ -34078,3 +34078,405 @@
 
  *** WARNING ***                         CP =      24.984   TIME= 15:22:06
  Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      48.078   TIME= 21:48:28
+ /CLEAR is not a recognized POST1 command, abbreviation, or macro.       
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      48.609   TIME= 21:48:45
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      49.375   TIME= 21:49:04
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+/COM,ANSYS RELEASE Release 16.0      BUILD 16.0      UP20141203       18:22:11
+
+ *** WARNING ***                         CP =       0.828   TIME= 18:22:17
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       2.797   TIME= 18:22:51
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       3.938   TIME= 18:23:52
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      13.391   TIME= 18:36:45
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      15.438   TIME= 18:37:12
+ This function requires that files currently open be closed.             
+ Executing the function will exit the general postprocessor.             
+
+ *** WARNING ***                         CP =      17.922   TIME= 18:44:45
+ /CLEAR is not a recognized SOLUTION command, abbreviation, or macro.    
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      18.219   TIME= 18:44:57
+ /CLEAR is not a recognized SOLUTION command, abbreviation, or macro.    
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      18.391   TIME= 18:45:02
+ CLEAR is not a recognized SOLUTION command, abbreviation, or macro.     
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      18.891   TIME= 18:45:24
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      19.656   TIME= 18:45:44
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      20.078   TIME= 18:45:44
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      20.188   TIME= 18:45:44
+ File testJunctionPlate does not exist.                                  
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      21.672   TIME= 18:46:52
+ PWD is not a recognized POST1 command, abbreviation, or macro.          
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      21.875   TIME= 18:46:59
+ This function requires that files currently open be closed.             
+ Executing the function will exit the general postprocessor.             
+
+ *** WARNING ***                         CP =      22.703   TIME= 18:48:31
+ This function requires that files currently open be closed.             
+ Executing the function will exit the general postprocessor.             
+
+ *** WARNING ***                         CP =     104.734   TIME= 09:22:18
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =     105.141   TIME= 09:22:18
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =     105.266   TIME= 09:22:18
+ File testJunctionPlate does not exist.                                  
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =     107.188   TIME= 09:22:34
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =     107.516   TIME= 09:22:34
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =     107.641   TIME= 09:22:34
+ File testJunctionPlate does not exist.                                  
+  The /INPUT command is ignored.                                         
+/COM,ANSYS RELEASE Release 16.0      BUILD 16.0      UP20141203       13:54:34
+
+ *** WARNING ***                         CP =       0.812   TIME= 13:54:36
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** ERROR ***                           CP =       5.875   TIME= 13:56:13
+ This function requires defined keypoints.                               
+  No keypoints are currently defined.                                    
+
+ *** ERROR ***                           CP =       8.859   TIME= 13:59:53
+ Element type 1 is not yet defined.  Use the ET command to define this   
+ element type.  The E command is ignored.                                
+
+ *** WARNING ***                         CP =      10.312   TIME= 14:00:39
+ /PRE7 is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+/COM,ANSYS RELEASE Release 16.0      BUILD 16.0      UP20141203       14:01:59
+
+ *** WARNING ***                         CP =       0.812   TIME= 14:02:00
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       3.344   TIME= 14:02:22
+ No data is available for the selected model or data location            
+ specifications.                                                         
+/COM,ANSYS RELEASE Release 16.0      BUILD 16.0      UP20141203       14:02:49
+
+ *** WARNING ***                         CP =       0.766   TIME= 14:02:50
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       2.719   TIME= 14:03:17
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       3.312   TIME= 14:03:18
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       3.422   TIME= 14:03:18
+ File testJunctionPlate does not exist.                                  
+  The /INPUT command is ignored.                                         
+/COM,ANSYS RELEASE Release 16.0      BUILD 16.0      UP20141203       14:04:10
+
+ *** WARNING ***                         CP =       0.781   TIME= 14:04:11
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       2.422   TIME= 14:04:19
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       2.969   TIME= 14:04:20
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       3.094   TIME= 14:04:20
+ File testJunctionPlate does not exist.                                  
+  The /INPUT command is ignored.                                         
+/COM,ANSYS RELEASE Release 16.0      BUILD 16.0      UP20141203       14:10:04
+
+ *** WARNING ***                         CP =       0.797   TIME= 14:10:05
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       2.703   TIME= 14:10:17
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       3.219   TIME= 14:10:17
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       3.391   TIME= 14:10:17
+ File testJunctionPlate does not exist.                                  
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      14.703   TIME= 15:19:07
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      15.016   TIME= 15:19:08
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      15.047   TIME= 15:19:08
+ File testJunctionPlate1 does not exist.                                 
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      31.688   TIME= 15:47:52
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      31.953   TIME= 15:47:52
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      31.969   TIME= 15:47:52
+ File testJunctionPlate1 does not exist.                                 
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      62.422   TIME= 18:33:46
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      62.656   TIME= 18:33:47
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      62.703   TIME= 18:33:47
+ File testJunctionPlate1 does not exist.                                 
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      68.141   TIME= 19:36:22
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      68.516   TIME= 19:36:23
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      68.562   TIME= 19:36:23
+ File testJunctionPlate1 does not exist.                                 
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      84.391   TIME= 22:07:27
+ File testJunctionPlate.gsav does not exist.                             
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      86.375   TIME= 22:08:17
+ No element table items are available.  The PLLS command is ignored.     
+
+ *** WARNING ***                         CP =     100.500   TIME= 22:58:04
+ No previous ZOOM or more than five backward ZOOMs in window 1.  The     
+ /ZOOM command is ignored.                                               
+
+ *** WARNING ***                         CP =     107.438   TIME= 23:10:52
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =     107.609   TIME= 23:10:53
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =     107.641   TIME= 23:10:53
+ File testJunctionPlate1 does not exist.                                 
+  The /INPUT command is ignored.                                         
+/COM,ANSYS RELEASE Release 16.0      BUILD 16.0      UP20141203       23:12:40
+
+ *** WARNING ***                         CP =       0.875   TIME= 23:12:42
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       2.984   TIME= 23:12:57
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       3.562   TIME= 23:12:58
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       3.609   TIME= 23:12:58
+ File testJunctionPlate1 does not exist.                                 
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =       4.562   TIME= 23:13:12
+ No previous ZOOM or more than five backward ZOOMs in window 1.  The     
+ /ZOOM command is ignored.                                               
+
+ *** WARNING ***                         CP =       4.594   TIME= 23:13:13
+ No previous ZOOM or more than five backward ZOOMs in window 1.  The     
+ /ZOOM command is ignored.                                               
+
+ *** WARNING ***                         CP =      17.281   TIME= 00:25:52
+ No previous ZOOM or more than five backward ZOOMs in window 1.  The     
+ /ZOOM command is ignored.                                               
+
+ *** WARNING ***                         CP =      21.766   TIME= 00:31:41
+ No pretension sections are available for loading.                       
+
+ *** WARNING ***                         CP =      29.203   TIME= 00:45:08
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      29.453   TIME= 00:45:08
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      29.516   TIME= 00:45:09
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      29.562   TIME= 00:45:09
+ File testJunctionPlate1 does not exist.                                 
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      36.922   TIME= 09:43:52
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** ERROR ***                           CP =      37.125   TIME= 09:43:53
+ Cannot create line between coincident keypoints 2 and 5.                
+
+ *** ERROR ***                           CP =      37.328   TIME= 09:44:02
+ Cannot create line between coincident keypoints 3 and 6.                
+
+ *** WARNING ***                         CP =      37.531   TIME= 09:44:38
+ There are no selected unmeshed areas.  The AATT command is ignored.     
+
+ *** ERROR ***                           CP =      37.547   TIME= 09:44:39
+ Undefined line 6.                                                       
+
+ *** WARNING ***                         CP =      37.609   TIME= 09:44:39
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      37.641   TIME= 09:44:39
+ File testMindlin does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** ERROR ***                           CP =      37.672   TIME= 09:44:40
+ There are no nodes defined.                                             
+
+ *** ERROR ***                           CP =      37.734   TIME= 09:44:40
+ An error occurred while attempting to open the results file             
+ testMindlin.rst.                                                        
+
+ *** WARNING ***                         CP =      37.781   TIME= 09:44:41
+ Unable to read geometry from the ( rst ) results file.  Either the      
+ geometry is not on the file or the file could not be read.  The SET     
+ command is ignored.  If the file is an older results file that does     
+ not contain the geometry, issue a RESUME command to restore the         
+ geometry to the database.                                               
+
+ *** WARNING ***                         CP =      37.828   TIME= 09:44:41
+ The degree of freedom solution is not available.  The PLDISP command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      37.844   TIME= 09:44:41
+ No geometry is available.  The PLNSOL command is ignored.               
+
+ *** WARNING ***                         CP =      38.250   TIME= 09:44:54
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      38.625   TIME= 09:44:55
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      38.641   TIME= 09:44:55
+ File testMindlin does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      43.750   TIME= 09:48:11
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      44.000   TIME= 09:48:12
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      44.031   TIME= 09:48:12
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      44.078   TIME= 09:48:12
+ File testMindlin does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      46.812   TIME= 09:49:56
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      47.188   TIME= 09:49:57
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      47.250   TIME= 09:49:57
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      47.297   TIME= 09:49:57
+ File testMindlin does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      56.625   TIME= 12:12:07
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      56.984   TIME= 12:12:08
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      57.078   TIME= 12:12:08
+ File testJunctionPlate does not exist.                                  
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      59.188   TIME= 12:14:05
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      59.594   TIME= 12:14:05
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      59.641   TIME= 12:14:06
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      59.656   TIME= 12:14:06
+ File testJunctionPlate1 does not exist.                                 
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      62.750   TIME= 12:21:34
+ This function requires that files currently open be closed.             
+ Executing the function will exit the general postprocessor.             
+
+ *** WARNING ***                         CP =      70.438   TIME= 13:19:44
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      70.656   TIME= 13:19:44
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      70.719   TIME= 13:19:44
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      70.781   TIME= 13:19:44
+ File testJunctionPlate1 does not exist.                                 
+  The /INPUT command is ignored.                                         

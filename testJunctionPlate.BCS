@@ -5,39 +5,36 @@
  = multifrontal statistics =
  ===========================
 
-     number of equations                     =            7308
-     no. of nonzeroes in lower triangle of a =          131519
-     number of compressed nodes              =            1218
-     no. of compressed nonzeroes in l. tri.  =            4637
-     amount of workspace currently in use    =         1202423
-     max. amt. of workspace used             =         1999993
-     no. of nonzeroes in the factor l        =          801486.
-     number of super nodes                   =             636
-     number of compressed subscripts         =           41328
-     size of stack storage                   =           72813
-     maximum order of a front matrix         =             288
-     maximum size of a front matrix          =           41616
-     maximum size of a front trapezoid       =           16352
-     no. of floating point ops for factor    =      1.2353D+08
-     no. of floating point ops for solve     =      2.7539D+06
-     actual no. of nonzeroes in the factor l =          801486.
-     actual number of compressed subscripts  =           41328
-     actual size of stack storage used       =          100161
+     number of equations                     =             192
+     no. of nonzeroes in lower triangle of a =            2788
+     number of compressed nodes              =              32
+     no. of compressed nonzeroes in l. tri.  =              94
+     amount of workspace currently in use    =           14004
+     max. amt. of workspace used             =         1999992
+     no. of nonzeroes in the factor l        =            6132.
+     number of super nodes                   =              12
+     number of compressed subscripts         =             312
+     size of stack storage                   =            1845
+     maximum order of a front matrix         =              48
+     maximum size of a front matrix          =            1176
+     maximum size of a front trapezoid       =            1128
+     no. of floating point ops for factor    =      2.3507D+05
+     no. of floating point ops for solve     =      1.6848D+04
+     actual no. of nonzeroes in the factor l =            6132.
+     actual number of compressed subscripts  =             312
+     actual size of stack storage used       =            5730
      negative pivot monitoring activated
      number of negative pivots encountered   =              0.
-     factorization panel size                =              64
+     factorization panel size                =              48
      factorization update panel size         =              32
      solution block size                     =               2
      number of cores used                    =               2
-     time (cpu & wall) for structure input   =        0.006000        0.006544
-     time (cpu & wall) for ordering          =        0.000000        0.000637
-     time (cpu & wall) for symbolic factor   =        0.001000        0.000544
-     time (cpu & wall) for value input       =        0.008000        0.007900
-     time (cpu & wall) for numeric factor    =        0.018000        0.018424
-     computational rate (mflops) for factor  =     6862.668278     6704.880099
+     time (cpu & wall) for structure input   =        0.000000        0.000140
+     time (cpu & wall) for ordering          =        0.000000        0.000018
+     time (cpu & wall) for symbolic factor   =        0.000000        0.000014
+     time (cpu & wall) for value input       =        0.000000        0.000233
+     time (cpu & wall) for numeric factor    =        0.002000        0.002135
+     computational rate (mflops) for factor  =      117.534000      110.122740
      condition number estimate               =      0.0000D+00
-     time (cpu & wall) for numeric solve     =        0.002000        0.001730
-     computational rate (mflops) for solve   =     1376.946000     1591.753078
-     effective I/O rate (MB/sec) for solve   =     5246.164181     6064.579135
 
      no input or output performed
