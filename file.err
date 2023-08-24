@@ -34480,3 +34480,232 @@
  *** WARNING ***                         CP =      70.781   TIME= 13:19:44
  File testJunctionPlate1 does not exist.                                 
   The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      76.578   TIME= 21:49:43
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** ERROR ***                           CP =      79.031   TIME= 21:55:33
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+/COM,ANSYS RELEASE Release 16.0      BUILD 16.0      UP20141203       21:55:51
+
+ *** WARNING ***                         CP =       0.938   TIME= 21:55:53
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       2.672   TIME= 21:56:19
+ Unable to connect to the ANSYS help server.                             
+
+ *** WARNING ***                         CP =       2.734   TIME= 21:56:35
+ The ANSYS help system crashed and cannot be restarted.  Help will be    
+ unavailable until you restart ANSYS.  If this problem continues,        
+ please contact your ASD.                                                
+
+ *** WARNING ***                         CP =       4.859   TIME= 22:10:26
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       5.281   TIME= 22:10:27
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      11.469   TIME= 22:24:04
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      11.719   TIME= 22:24:04
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** ERROR ***                           CP =      11.750   TIME= 22:24:04
+ Element 1, a LINK180 element, has no section or real constant           
+ information defined.                                                    
+
+ *** ERROR ***                           CP =      11.938   TIME= 22:24:14
+ Link element 1 references section 1 which is not a link section.        
+
+ *** ERROR ***                           CP =      12.094   TIME= 22:24:20
+ Element 2, a LINK180 element, has no section or real constant           
+ information defined.                                                    
+
+ *** ERROR ***                           CP =      12.188   TIME= 22:24:22
+ Link element 2 references section 1 which is not a link section.        
+
+ *** ERROR ***                           CP =      12.266   TIME= 22:24:22
+ The model data was checked and there were errors found.                 
+  Please check output or errors file (                                   
+ C:\Users\Lemon\Desktop\RepositoryGit\ANSYS\file.err ) for messages.     
+
+ *** WARNING ***                         CP =      12.312   TIME= 22:24:24
+ The degree of freedom solution is not available.  The PLDISP command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      12.344   TIME= 22:24:24
+ The degree of freedom solution is not available.  The PLNSOL command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      12.906   TIME= 22:26:15
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      13.234   TIME= 22:26:16
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** ERROR ***                           CP =      13.312   TIME= 22:26:16
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 3).  Please check for an insufficiently       
+ constrained model.                                                      
+
+ *** WARNING ***                         CP =      13.406   TIME= 22:26:16
+ The degree of freedom solution is not available.  The PLDISP command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      13.531   TIME= 22:26:16
+ The degree of freedom solution is not available.  The PLNSOL command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      14.203   TIME= 22:26:36
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      14.562   TIME= 22:26:37
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** ERROR ***                           CP =      14.625   TIME= 22:26:37
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 3).  Please check for an insufficiently       
+ constrained model.                                                      
+
+ *** WARNING ***                         CP =      14.719   TIME= 22:26:37
+ The degree of freedom solution is not available.  The PLDISP command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      14.859   TIME= 22:26:37
+ The degree of freedom solution is not available.  The PLNSOL command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      15.656   TIME= 22:28:52
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      16.109   TIME= 22:28:53
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** ERROR ***                           CP =      16.188   TIME= 22:28:53
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 3).  Please check for an insufficiently       
+ constrained model.                                                      
+
+ *** WARNING ***                         CP =      16.266   TIME= 22:28:53
+ The degree of freedom solution is not available.  The PLDISP command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      16.406   TIME= 22:28:53
+ The degree of freedom solution is not available.  The PLNSOL command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      22.062   TIME= 22:35:00
+ Element order list length 2 does not match number of selected elements  
+ 4                                                                       
+  New order vector being created.                                        
+
+ *** ERROR ***                           CP =      22.094   TIME= 22:35:00
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 3).  Please check for an insufficiently       
+ constrained model.                                                      
+
+ *** WARNING ***                         CP =      22.812   TIME= 22:35:17
+ SOLVE is not a recognized BEGIN command, abbreviation, or macro.  This  
+ command will be ignored.                                                
+
+ *** ERROR ***                           CP =      23.062   TIME= 22:35:30
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 3).  Please check for an insufficiently       
+ constrained model.                                                      
+
+ *** ERROR ***                           CP =      24.219   TIME= 22:36:04
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 3).  Please check for an insufficiently       
+ constrained model.                                                      
+
+ *** ERROR ***                           CP =      25.203   TIME= 22:56:29
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 3).  Please check for an insufficiently       
+ constrained model.                                                      
+
+ *** WARNING ***                         CP =      36.703   TIME= 09:56:04
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      36.906   TIME= 09:56:05
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** ERROR ***                           CP =      36.938   TIME= 09:56:05
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 3).  Please check for an insufficiently       
+ constrained model.                                                      
+
+ *** WARNING ***                         CP =      37.094   TIME= 09:56:05
+ The degree of freedom solution is not available.  The PLDISP command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      37.234   TIME= 09:56:05
+ The degree of freedom solution is not available.  The PLNSOL command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      37.812   TIME= 09:56:36
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      38.219   TIME= 09:56:36
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      39.641   TIME= 10:03:29
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      40.094   TIME= 10:03:29
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      45.531   TIME= 15:32:29
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      45.859   TIME= 15:32:29
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      46.844   TIME= 15:32:49
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      47.250   TIME= 15:32:49
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      51.516   TIME= 16:24:36
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      51.703   TIME= 16:24:36
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** ERROR ***                           CP =      51.781   TIME= 16:24:37
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 3).  Please check for an insufficiently       
+ constrained model.                                                      
+
+ *** WARNING ***                         CP =      51.891   TIME= 16:24:37
+ The degree of freedom solution is not available.  The PLDISP command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      52.031   TIME= 16:24:37
+ The degree of freedom solution is not available.  The PLNSOL command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      53.000   TIME= 16:25:11
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      53.406   TIME= 16:25:12
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         

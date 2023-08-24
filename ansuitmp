@@ -1,7 +1,7 @@
-*MSG,WARN
-This function requires that files currently open be closed. %/Executing &
-the function will exit &
- the general postprocessor
+*MSG,NOTE
+No element types have been defined! %/ A generic real constant &
+ dialog will be displayed
+  
   
   
   

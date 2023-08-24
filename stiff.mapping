@@ -1,0 +1,13 @@
+    Matrix Eqn          Node    DOF     
+             1             3    UX  
+             2             3    UY  
+             3             3    UZ  
+             4             3    ROTX
+             5             3    ROTY
+             6             3    ROTZ
+             7             2    UX  
+             8             2    UY  
+             9             2    UZ  
+            10             2    ROTX
+            11             2    ROTY
+            12             2    ROTZ
