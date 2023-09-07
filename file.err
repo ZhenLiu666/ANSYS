@@ -34709,3 +34709,350 @@
  *** WARNING ***                         CP =      53.406   TIME= 16:25:12
  File testTwoBeam does not exist.                                        
   The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      57.328   TIME= 16:48:34
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      57.547   TIME= 16:48:35
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      59.562   TIME= 16:49:23
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      59.766   TIME= 16:49:24
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      61.797   TIME= 16:52:43
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      62.031   TIME= 16:52:43
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** ERROR ***                           CP =      62.062   TIME= 16:52:43
+ There is at least 1 small equation solver pivot term (e.g., at the UY   
+ degree of freedom of node 3).  Please check for an insufficiently       
+ constrained model.                                                      
+
+ *** WARNING ***                         CP =      62.172   TIME= 16:52:43
+ The degree of freedom solution is not available.  The PLDISP command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      62.328   TIME= 16:52:44
+ The degree of freedom solution is not available.  The PLNSOL command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      63.844   TIME= 18:40:28
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      64.234   TIME= 18:40:28
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      65.984   TIME= 18:43:51
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      66.203   TIME= 18:43:51
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** ERROR ***                           CP =      66.266   TIME= 18:43:51
+ There are 1 small equation solver pivot terms (e.g., at the UY degree   
+ of freedom of node 4).  Please check for an insufficiently constrained  
+ model.                                                                  
+
+ *** WARNING ***                         CP =      66.375   TIME= 18:43:51
+ The degree of freedom solution is not available.  The PLDISP command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      66.516   TIME= 18:43:51
+ The degree of freedom solution is not available.  The PLNSOL command is 
+ ignored.                                                                
+
+ *** WARNING ***                         CP =      68.234   TIME= 20:14:51
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      68.594   TIME= 20:14:51
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      72.625   TIME= 20:19:58
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** ERROR ***                           CP =      74.609   TIME= 20:20:34
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+/COM,ANSYS RELEASE Release 16.0      BUILD 16.0      UP20141203       20:20:58
+
+ *** WARNING ***                         CP =       0.938   TIME= 20:21:00
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       4.359   TIME= 20:23:42
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       5.875   TIME= 20:24:29
+ Invalid coordinate system= 12.                                          
+/COM,ANSYS RELEASE Release 16.0      BUILD 16.0      UP20141203       21:05:57
+
+ *** WARNING ***                         CP =       0.812   TIME= 21:05:58
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       2.875   TIME= 21:06:07
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** ERROR ***                           CP =       6.250   TIME= 21:08:54
+ This function requires selected keypoints.                              
+  No keypoints are currently selected.                                   
+
+ *** ERROR ***                           CP =       6.438   TIME= 21:09:06
+ This function requires selected keypoints.                              
+  No keypoints are currently selected.                                   
+
+ *** ERROR ***                           CP =       7.516   TIME= 21:10:08
+ This function requires selected keypoints.                              
+  No keypoints are currently selected.                                   
+
+ *** WARNING ***                         CP =       8.016   TIME= 21:10:30
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** ERROR ***                           CP =      11.266   TIME= 21:12:27
+ This function requires defined components.                              
+  No components are currently defined.                                   
+
+ *** WARNING ***                         CP =      20.953   TIME= 21:20:04
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      37.000   TIME= 23:10:10
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      37.234   TIME= 23:10:11
+ File testTwoBeam does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      38.219   TIME= 23:10:28
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      38.734   TIME= 23:10:28
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      38.906   TIME= 23:10:29
+ File testJunctionPlate does not exist.                                  
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      40.812   TIME= 23:10:53
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      41.250   TIME= 23:10:54
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      41.328   TIME= 23:10:54
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      41.375   TIME= 23:10:54
+ File testJunctionPlate1 does not exist.                                 
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      59.453   TIME= 08:48:34
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      59.672   TIME= 08:48:34
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      59.766   TIME= 08:48:34
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      59.797   TIME= 08:48:34
+ File testMindlin does not exist.                                        
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      69.312   TIME= 22:14:03
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      69.656   TIME= 22:14:03
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      69.797   TIME= 22:14:03
+ File testJunctionPlate does not exist.                                  
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =     107.016   TIME= 14:38:52
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =     107.594   TIME= 14:38:52
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =     107.766   TIME= 14:38:52
+ File testJunctionPlate does not exist.                                  
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =     916.812   TIME= 14:39:44
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =     919.641   TIME= 14:44:36
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =     920.172   TIME= 14:44:37
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =     920.203   TIME= 14:44:37
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =     920.266   TIME= 14:44:37
+ File PlateBending does not exist.                                       
+  The /INPUT command is ignored.                                         
+/COM,ANSYS RELEASE Release 16.0      BUILD 16.0      UP20141203       14:47:01
+
+ *** WARNING ***                         CP =       0.891   TIME= 14:47:02
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       3.172   TIME= 14:47:23
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       3.672   TIME= 14:47:24
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =       3.781   TIME= 14:47:24
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       3.828   TIME= 14:47:24
+ File PlateBending does not exist.                                       
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =       7.766   TIME= 14:52:00
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =       8.078   TIME= 14:52:00
+ Forces on unmeshed keypoint 5 are not transferred.                      
+
+ *** WARNING ***                         CP =       8.094   TIME= 14:52:00
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =       8.141   TIME= 14:52:00
+ File PlateBending does not exist.                                       
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =       8.297   TIME= 14:52:01
+ Forces on unmeshed keypoint 5 are not transferred.                      
+
+ *** WARNING ***                         CP =       9.797   TIME= 14:53:20
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      10.359   TIME= 14:53:21
+ Forces on unmeshed keypoint 5 are not transferred.                      
+
+ *** WARNING ***                         CP =      10.406   TIME= 14:53:21
+ Forces on unmeshed keypoint 5 are not transferred.                      
+
+ *** WARNING ***                         CP =      10.422   TIME= 14:53:21
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      10.453   TIME= 14:53:21
+ File PlateBending does not exist.                                       
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      10.578   TIME= 14:53:21
+ Forces on unmeshed keypoint 5 are not transferred.                      
+
+ *** ERROR ***                           CP =      17.734   TIME= 14:58:29
+ Unknown label in field 5 ( ) of *GET command.                           
+  Line= *GET, COORD, NODE, 561,,                                         
+  The *GET command is ignored.                                           
+
+ *** ERROR ***                           CP =      18.453   TIME= 15:00:20
+ Unknown label in field 5 ( x ) of *GET command.                         
+  Line= *GET,COORD_x,NODE,561,x                                          
+  The *GET command is ignored.                                           
+
+ *** WARNING ***                         CP =      19.844   TIME= 15:02:14
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      20.359   TIME= 15:02:15
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      20.422   TIME= 15:02:15
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      20.484   TIME= 15:02:15
+ File PlateBending does not exist.                                       
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      27.188   TIME= 15:11:06
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      27.500   TIME= 15:11:07
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      27.516   TIME= 15:11:07
+ File PlateBending does not exist.                                       
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      29.766   TIME= 15:12:16
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      31.969   TIME= 15:12:17
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      32.016   TIME= 15:12:18
+ File PlateBending does not exist.                                       
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      42.609   TIME= 15:17:08
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      44.531   TIME= 15:17:10
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      44.578   TIME= 15:17:10
+ File PlateBending does not exist.                                       
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      49.469   TIME= 15:17:35
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      50.016   TIME= 15:17:36
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      50.062   TIME= 15:17:36
+ File PlateBending does not exist.                                       
+  The /INPUT command is ignored.                                         
+
+ *** WARNING ***                         CP =      55.797   TIME= 19:57:03
+ Abbreviation file does not exist ( GJ_1_v3.0.abbr ).                    
+
+ *** WARNING ***                         CP =      56.344   TIME= 19:57:03
+ /FILE is not a recognized PREP7 command, abbreviation, or macro.        
+  This command will be ignored.                                          
+
+ *** WARNING ***                         CP =      56.391   TIME= 19:57:03
+ File PlateBending does not exist.                                       
+  The /INPUT command is ignored.                                         

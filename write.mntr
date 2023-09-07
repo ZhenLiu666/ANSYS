@@ -2,10 +2,10 @@
 
 
  SOLUTION HISTORY INFORMATION FOR JOB: write.mntr                                                                                                                                                                                                                                                          
- ANSYS RELEASE 16.0                     16:25:12    08/24/2023
+ ANSYS RELEASE 16.0                     23:10:11    08/24/2023
 
   LOAD   SUB-  NO.  NO.    TOTL  INCREMENT    TOTAL         VARIAB 1     VARIAB 2     VARIAB 3
   STEP   STEP ATTMP ITER   ITER  TIME/LFACT   TIME/LFACT    MONITOR      MONITOR      MONITOR
                                                              CPU          MxDs         MxPl
 
-     1      1    1     1      1     1.0000       1.0000      0.62500E-01  0.10000E-06  0.78886E-30
+     1      1    1     1      1     1.0000       1.0000      0.78125E-01  0.10000E-06  0.78886E-30

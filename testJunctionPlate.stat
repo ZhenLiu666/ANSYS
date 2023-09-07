@@ -1,2 +1,2 @@
-Sparse Solver      :  curEqn=    192 totEqn=    192 Job CP sec= 50828.884
-          Factor done= 100% Factor Wall sec=      0.0 rate=     2291.1 Mflops
+Sparse Solver      :  curEqn=   5046 totEqn=   5046 Job CP sec= 18673.668
+          Factor done= 100% Factor Wall sec=      0.0 rate=     7224.4 Mflops

@@ -5,36 +5,39 @@
  = multifrontal statistics =
  ===========================
 
-     number of equations                     =             192
-     no. of nonzeroes in lower triangle of a =            2788
-     number of compressed nodes              =              32
-     no. of compressed nonzeroes in l. tri.  =              94
-     amount of workspace currently in use    =           14004
+     number of equations                     =            5046
+     no. of nonzeroes in lower triangle of a =           44805
+     number of compressed nodes              =             841
+     no. of compressed nonzeroes in l. tri.  =            3192
+     amount of workspace currently in use    =          724889
      max. amt. of workspace used             =         1999992
-     no. of nonzeroes in the factor l        =            6132.
-     number of super nodes                   =              12
-     number of compressed subscripts         =             312
-     size of stack storage                   =            1845
-     maximum order of a front matrix         =              48
-     maximum size of a front matrix          =            1176
-     maximum size of a front trapezoid       =            1128
-     no. of floating point ops for factor    =      2.3507D+05
-     no. of floating point ops for solve     =      1.6848D+04
-     actual no. of nonzeroes in the factor l =            6132.
-     actual number of compressed subscripts  =             312
-     actual size of stack storage used       =            5730
+     no. of nonzeroes in the factor l        =          541275.
+     number of super nodes                   =             438
+     number of compressed subscripts         =           27894
+     size of stack storage                   =          107790
+     maximum order of a front matrix         =             336
+     maximum size of a front matrix          =           56616
+     maximum size of a front trapezoid       =           19424
+     no. of floating point ops for factor    =      8.5095D+07
+     no. of floating point ops for solve     =      1.7790D+06
+     actual no. of nonzeroes in the factor l =          541275.
+     actual number of compressed subscripts  =           27894
+     actual size of stack storage used       =          139212
      negative pivot monitoring activated
      number of negative pivots encountered   =              0.
-     factorization panel size                =              48
+     factorization panel size                =              64
      factorization update panel size         =              32
      solution block size                     =               2
      number of cores used                    =               2
-     time (cpu & wall) for structure input   =        0.000000        0.000140
-     time (cpu & wall) for ordering          =        0.000000        0.000018
-     time (cpu & wall) for symbolic factor   =        0.000000        0.000014
-     time (cpu & wall) for value input       =        0.000000        0.000233
-     time (cpu & wall) for numeric factor    =        0.002000        0.002135
-     computational rate (mflops) for factor  =      117.534000      110.122740
+     time (cpu & wall) for structure input   =        0.004000        0.003978
+     time (cpu & wall) for ordering          =        0.000000        0.000368
+     time (cpu & wall) for symbolic factor   =        0.001000        0.000348
+     time (cpu & wall) for value input       =        0.003000        0.003061
+     time (cpu & wall) for numeric factor    =        0.014000        0.014549
+     computational rate (mflops) for factor  =     6078.215215     5848.695685
      condition number estimate               =      0.0000D+00
+     time (cpu & wall) for numeric solve     =        0.002000        0.001619
+     computational rate (mflops) for solve   =      889.497000     1098.619156
+     effective I/O rate (MB/sec) for solve   =     3388.983518     4185.738920
 
      no input or output performed

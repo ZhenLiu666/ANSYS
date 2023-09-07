@@ -1,0 +1,75 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! Junction Plates
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+finish
+/clear
+/filname,testTwoBeam
+
+/prep7
+!!!!参数输入
+Ex=2e7  !!弹性模量
+Nu=0      !!泊松比
+
+!!!!定义单元类型，实常数，材料特性
+! et,1,beam188
+et,1,link180
+SECTYPE,1,LINK,RECT
+SECOFFSET,CENT
+SECDATA,1,1
+mp,ex,1,Ex
+!mp,prxy,1,Nu
+
+!!!建立几何模型
+N,1,0,0,0
+N,2,sqrt(3)/4,1/4,0
+N,3,sqrt(3)/2,1/2,0
+N,4,3*sqrt(3)/4,1/4,0
+N,5,sqrt(3),0,0
+E,1,2
+E,2,3
+E,3,4
+E,4,5
+
+
+!!!给两加载边施加约束
+D,1,ALL
+D,5,ALL
+
+!LOCAL, KCN, KCS, XC, YC, ZC, THXY, THYZ, THZX, PAR1, PAR2
+LOCAL,11,0,sqrt(3)/4,1/4,0,PI/6,PI/6,0
+csys,11
+D,2,Ux
+
+LOCAL,12,0,3*sqrt(3)/4,1/4,0,-PI/6,-PI/6,0
+csys,12
+D,4,Ux
+
+!!!施加荷载
+F,3,fx,1
+F,3,fy,1
+finish
+
+!! 保存信息
+/file,write,testTwoBeam.inp
+/input,testTwoBeam
+
+
+!!!首先进行静力解
+/solu
+solve
+!*DMAT,MatKD,D,IMPORT,FULL,file.full,STIFF
+!*PRINT,MatKD,Mdense.matrix
+finish
+
+! 提取刚度矩阵
+/aux2
+file,file,full
+hbmat,stiff,txt,,ascii,stiffness,yes,yes
+finish
+
+!!!后处理
+/post1
+! Displays the displaced structure.
+pldisp,1
+! Displays results as continuous contours.
+plnsol,u,y,0,1.0

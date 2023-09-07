@@ -8,7 +8,7 @@ finish
 /prep7
 !!!!参数输入
 Ex=2e7  !!弹性模量
-!Nu=0      !!泊松比
+Nu=0      !!泊松比
 
 !!!!定义单元类型，实常数，材料特性
 ! et,1,beam188
@@ -44,8 +44,8 @@ finish
 !!!首先进行静力解
 /solu
 solve
-*DMAT,MatKD,D,IMPORT,FULL,file.full,STIFF
-*PRINT,MatKD,Mdense.matrix
+!*DMAT,MatKD,D,IMPORT,FULL,file.full,STIFF
+!*PRINT,MatKD,Mdense.matrix
 finish
 
 ! 提取刚度矩阵

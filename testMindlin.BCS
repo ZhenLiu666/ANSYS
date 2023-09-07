@@ -29,12 +29,12 @@
      factorization update panel size         =              32
      solution block size                     =               2
      number of cores used                    =               2
-     time (cpu & wall) for structure input   =        0.000000        0.000109
-     time (cpu & wall) for ordering          =        0.000000        0.000116
-     time (cpu & wall) for symbolic factor   =        0.000000        0.000010
-     time (cpu & wall) for value input       =        0.000000        0.000077
-     time (cpu & wall) for numeric factor    =        0.001000        0.000987
-     computational rate (mflops) for factor  =      160.810001      162.895057
+     time (cpu & wall) for structure input   =        0.000000        0.000118
+     time (cpu & wall) for ordering          =        0.000000        0.000130
+     time (cpu & wall) for symbolic factor   =        0.000000        0.000011
+     time (cpu & wall) for value input       =        0.001000        0.000106
+     time (cpu & wall) for numeric factor    =        0.006000        0.006316
+     computational rate (mflops) for factor  =       26.801667       25.460735
      condition number estimate               =      0.0000D+00
 
      no input or output performed
